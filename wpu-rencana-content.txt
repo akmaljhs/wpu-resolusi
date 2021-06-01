@@ -3,9 +3,11 @@ RENCANA KONTEN WPU
 - Javascript
   *ES6
   *Framworks Javasript
-   ^Angular
-   ^react
+   ^vue
+   ^React
+- Struktur data dasar
 - PHP Frmeworks
-   ^laravel
+  *laravel
 - Interview
 - Vlog
+- Pyton
